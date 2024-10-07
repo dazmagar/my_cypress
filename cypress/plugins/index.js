@@ -1,6 +1,6 @@
 let globalStore = {}; // Object to store values between tests
 
-module.exports = (on, config) => {
+module.exports = on => {
     on('task', {
         setData({ key, value }) {
             globalStore[key] = value;

@@ -4,7 +4,6 @@
 # misc
 .DS_Store
 .idea
-.vscode
 
 npm-debug.log*
 .nyc_output

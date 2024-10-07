@@ -10,6 +10,10 @@
         "cypress-mochawesome-reporter": "^3.8.2",
         "cypress-xpath": "^2.0.1",
         "eslint": "^8.52.0",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-cypress": "^3.5.0",
+        "eslint-plugin-no-inline-styles": "^1.0.5",
+        "eslint-plugin-prettier": "^5.2.1",
         "prettier": "^3.1.0",
         "prettier-eslint": "^16.1.2"
     },
